@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Zhouyi Xu"
 title_separator          : "-"
 name                     : &name "Zhouyi Xu"
@@ -24,9 +24,9 @@ repository               : "Zhouyi-Xu/Zhouyi-Xu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Joey"
+  name             : "Zhouyi Xu (Joey Hsu)"
   pronouns         : # example: "she/her"  
-  bio              : "a computer science post graduate student"
+  bio              : "Artificial Intelligence Researcher"
   location         : "Hangzhou, China"
   employer         : "Hangzhou City University"
   uri              : # URL
@@ -107,7 +107,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : dark # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
