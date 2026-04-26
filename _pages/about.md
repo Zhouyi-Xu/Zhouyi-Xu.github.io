@@ -10,21 +10,13 @@ I am a master's student majoring in Computer Technology at Hangzhou City Univers
 
 Research Interests
 
-My research lies in artificial intelligence, focusing on intelligent perception. 
-I study perception problems across diverse data modalities and structures, with an emphasis on visual perception, 
-3D understanding, and spatial reconstruction. More broadly, I am interested in building intelligent systems 
-that progress from understanding to decision-making and creation.
+- Computer Vision
+- 3D Vision
+- Computer Graphics
 
-My work spans:
-- Visual perception (Computer Vision and 3D Vision)
-- Spatial understanding and reconstruction (3D vision and computer graphics)
-- Structured perception (graph-based modeling)
-- Spatio-temporal perception (dynamic and sequential data)
-- Multimodal perception (cross-modal understanding)
+My research interests lie in artificial intelligence, with a focus on computer vision, 3D vision, and computer graphics. I am particularly interested in visual and spatial perception: how machines perceive, understand, and reconstruct the 3D world from images, videos, and geometric data.
 
-I am also interested in:
-- Decision-making based on perception (e.g., reinforcement learning)
-- Creation and simulation based on perception (e.g., generative modeling and computer graphics)
+My current research focuses on visual perception, 3D understanding, spatial reconstruction, and geometry-aware modeling. More broadly, I hope to explore how ideas from related areas can help address core problems in vision, 3D perception, and graphics.
 
 I am deeply interested in a broad range of topics within Artificial Intelligence. If you have thoughts on my research—or simply an exciting idea to share—I would love to hear from you. I look forward to sparking new insights and ideas through meaningful conversations.
 
