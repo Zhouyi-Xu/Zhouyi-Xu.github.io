@@ -10,15 +10,18 @@ I am a master's student majoring in Computer Technology at Hangzhou City Univers
 
 Research Interests
 
-- Computer Vision
-- 3D Vision
-- Computer Graphics
+- Artificial Intelligence
+- Spatial Intelligence
+- Visual and 3D Perception
+- Spatial Reasoning and Decision-Making
 
-My research interests lie in artificial intelligence, with a focus on computer vision, 3D vision, and computer graphics. I am particularly interested in visual and spatial perception: how machines perceive, understand, and reconstruct the 3D world from images, videos, and geometric data.
+My research lies at the intersection of artificial intelligence, computer vision, 3D vision, and computer graphics. I study spatial intelligence, focusing on how machines perceive, represent, reconstruct, and reason about the 3D world.
 
-My current research focuses on visual perception, 3D understanding, spatial reconstruction, and geometry-aware modeling. More broadly, I hope to explore how ideas from related areas can help address core problems in vision, 3D perception, and graphics.
+My work is motivated by fundamental challenges in building intelligent systems that understand and interact with complex spatial environments. Rather than viewing vision, 3D perception, and graphics as isolated fields, I study how they can jointly support spatial understanding, reasoning, and decision-making.
 
-I am deeply interested in a broad range of topics within Artificial Intelligence. If you have thoughts on my research—or simply an exciting idea to share—I would love to hear from you. I look forward to sparking new insights and ideas through meaningful conversations.
+My current research spans visual and 3D perception, spatial representation, 3D understanding, geometry-aware modeling, and spatial reasoning. More broadly, I explore how modern AI methods can advance spatial perception, reasoning, and action.
+
+I am broadly interested in artificial intelligence, particularly in its role in spatial intelligence, perception, reasoning, and decision-making. If you have thoughts on my research—or simply an exciting idea to share—I would be glad to hear from you. I look forward to exchanging ideas through meaningful conversations.
 
 ## 🎉 News
 
