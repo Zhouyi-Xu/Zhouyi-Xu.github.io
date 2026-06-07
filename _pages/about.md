@@ -15,11 +15,9 @@ Research Interests
 - Computer Vision and Computer Graphics
 - Spatio-temporal Data Mining
 
-My research lies at the intersection of artificial intelligence, spatial intelligence, computer vision, computer graphics, and spatio-temporal data mining. I study how intelligent systems perceive, represent, reconstruct, understand, and reason about complex spatial environments.
+My research focuses on spatial intelligence, studying how intelligent systems perceive, represent, understand, and reason about complex spatial environments across physical, digital, embodied, and urban-scale settings. I aim to develop spatially aware AI methods for modeling complex environments and supporting intelligent interaction.
 
-My research focuses on spatial intelligence, aiming to develop AI methods that enable machines to perceive, understand, reason about, and make decisions in complex spatial environments. I study these problems across a range of spatial environments and systems, including physical, digital, embodied, and urban-scale settings.
-
-I am broadly interested in artificial intelligence, particularly in its role in spatial intelligence, perception, understanding, and reasoning. If you have thoughts on my research—or simply an exciting idea to share—I would be glad to hear from you. I look forward to exchanging ideas through meaningful conversations.
+If you have thoughts on my research—or simply an exciting idea to share—I would be glad to hear from you. I look forward to exchanging ideas through meaningful conversations.
 
 ## 📝 Research Summary
 
